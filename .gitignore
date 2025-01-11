@@ -1,0 +1,15 @@
+# Ignorar node_modules (dependencias)
+node_modules/
+
+# Archivos de configuración de editor
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de entorno sensibles
+.env
